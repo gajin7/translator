@@ -1,0 +1,30 @@
+<h1 class="title">{{temp}}</h1>
+    
+    <div class="frame">
+      <div class="red_rectangle"> </div>
+    
+      <form  >
+        <div class="blue_frame_pom">
+        <div class="blue_frame">
+          <div class="enter">
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <input type ="text" #heroName>
+          </div>
+        </div>
+      </div>
+    
+        <div class="text">
+          Translated text
+        </div>
+        <div class="translated_text">
+            {{TranslatedText}}
+        </div>
+        <div class="button_pom">
+          <button  (click)="Translate(heroName.value)" name="button">OK - continue</button>
+        </div>
+      </form>
+    </div>
+  

@@ -1,0 +1,24 @@
+.frame{
+    text-align: center;
+    /*background-color: ;*/
+    width: 500px;
+    height: 500px;
+    border-color: #a50000;
+    border-style: inset;
+  }
+  
+  
+  .red_rectangle{
+    width: 500px;
+    height: 125px;
+    background-color: #a50000;
+  }
+  
+  .translated_text
+  {
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 35px;
+    font-size: 20px;
+  }
+  

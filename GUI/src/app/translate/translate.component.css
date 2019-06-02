@@ -1,0 +1,80 @@
+.frame{
+    text-align: center;
+    /*background-color: ;*/
+    width: 500px;
+    height: 500px;
+    border-color: #a50000;
+    border-style: inset;
+  }
+  
+  .red_rectangle{
+    width: 500px;
+    height: 125px;
+    background-color: #a50000;
+  }
+  
+  .blue_frame_pom{
+    width: 500px;
+    text-align: center;
+  }
+  
+  .blue_frame{
+    width: 450px;
+    height: 125px;
+    background-color: skyblue;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 25px;
+  }
+  
+  .enter{
+    text-align: center;
+  }
+  
+  input[name=unos]{
+    width: 300px;
+    padding: 12px 20px;
+  /*  margin: 8px 0;*/
+    margin-top: 65px;
+    border-color: blue;
+  }
+  
+  .text
+  {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 26px;
+  }
+  
+  .translated_text
+  {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 55px;
+  }
+  
+  .button_pom{
+    margin-top: 80px;
+    text-align: right;
+    margin-right: 30px;
+  }
+  
+  button[name=button]{
+    background-color: #e8aa00;
+    border: 2px solid #e8aa00;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  button[name=button]:hover{
+    color: white;
+  }
+
+  input[type="text"]
+  {
+      font-size:24px;
+  }
+  
+    
