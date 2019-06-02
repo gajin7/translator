@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translate timestamp="6/2/2019 11:08:11 PM" id="1">
+    <From>wife</From>
+    <To>supruga</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:08:17 PM" id="2">
+    <From>dog</From>
+    <To>pas</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:08:23 PM" id="3">
+    <From>how are you?</From>
+    <To>kako si?</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:08:39 PM" id="4">
+    <From>cat</From>
+    <To>cat</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:09:35 PM" id="5">
+    <From>man</From>
+    <To>čoveče</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:09:47 PM" id="6">
+    <From></From>
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:17:22 PM" id="7">
+    <From>door</From>
+    <To>vrata</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:39:49 PM" id="8">
+    <From>window</From>
+    <To>prozor</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:40:01 PM" id="9">
+    <From>pet</From>
+    <To>pet</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:42:12 PM" id="10">
+    <From>mosue</From>
+    <To>mosue</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:42:19 PM" id="11">
+    <From>mouse</From>
+    <To>miš</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:48:13 PM" id="12">
+    <From>asd</From>
+    <To>asd</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:52:11 PM" id="13">
+    <From>rain</From>
+    <To>kiša</To>
+  </Translate>
+</Translations>

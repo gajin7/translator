@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translate timestamp="6/2/2019 11:25:11 AM" id="1">
+    <From>find</From>
+    <To>финд</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:25:27 AM" id="2">
+    <From>monday</From>
+    <To>Понедељак</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:25:43 AM" id="3">
+    <From>may</From>
+    <To>може</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:27:52 AM" id="4">
+    <From>mosue</From>
+    <To>мосуе</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:34:12 AM" id="5">
+    <From>home</From>
+    <To>кућа</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 11:37:27 AM" id="6">
+    <From>find my phone</From>
+    <To>Нађи мој телефон</To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:06 PM" id="7">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:08 PM" id="8">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:09 PM" id="9">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:18 PM" id="10">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:18 PM" id="11">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:19 PM" id="12">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:15:53 PM" id="13">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 2:16:21 PM" id="14">
+    <From />
+    <To></To>
+  </Translate>
+  <Translate timestamp="6/2/2019 3:00:08 PM" id="15">
+    <From>window</From>
+    <To>прозор</To>
+  </Translate>
+</Translations>
